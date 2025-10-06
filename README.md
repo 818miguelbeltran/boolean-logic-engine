@@ -19,7 +19,7 @@ This table evaluates all 8 combinations of True (1) and False (0) values across 
 ---
 
 ## 🔍 Analysis
-This project reveals how small changes in logical structure alter decision outcomes, mirroring how platforms like **Netflix** or **YouTube** generate recommendations. Unexpected outcomes (Rows 1, 3, and 5) illustrate how certain data signals override others — a simplified form of **algorithmic bias**.
+This project reveals how small changes in logical structure alter decision outcomes, mirroring how platforms like **Netflix** or **YouTube** generate recommendations. Unexpected outcomes (Rows 1, 3, and 5) illustrate how certain data signals override others, a simplified form of **algorithmic bias**.
 
 ---
 
