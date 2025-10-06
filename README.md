@@ -14,8 +14,7 @@ This rule models decision-making for movie recommendations, testing how multiple
 ## 📊 Truth Table
 ![Boolean Logic and Truth Tables](./Boolean_Logic_and_Truth_Tables.jpg)
 
-This table evaluates all 8 combinations of True (1) and False (0) values across three binary conditions.  
-It demonstrates how algorithms make decisions based on rule hierarchies, an early foundation for understanding AI systems and surveillance logic.
+This table evaluates all 8 combinations of True (1) and False (0) values across three binary conditions. It demonstrates how algorithms make decisions based on rule hierarchies, an early foundation for understanding AI systems and surveillance logic.
 
 ---
 
