@@ -53,4 +53,4 @@ This structure can later be translated directly into **Python** using Boolean ex
 ---
 
 ## 🔎 Research Context
-This project serves as a prototype for modeling how **algorithmic systems shape and constrain human decision-making**, a key theme in my sociological research on **surveillance, technology, and social control**. By dissecting how Boolean logic structures behavior in recommendation systems, this work highlights the **relationship between data, automation, and power** which serves as the foundation for understanding algorithmic governance in digital societies.
+This project serves as a prototype for modeling how **algorithmic systems shape and constrain human decision-making**, a key theme in my sociological research on **surveillance, technology, and social control**. By dissecting how Boolean logic structures behavior in recommendation systems, this work highlights the **relationship between data, automation, and power**, which serves as the foundation for understanding algorithmic governance in digital societies.
