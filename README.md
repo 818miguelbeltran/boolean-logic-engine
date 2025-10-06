@@ -30,4 +30,4 @@ two distinct paths, one based on quality (safe strategy) and another on risk (bo
 ---
 
 ## 🧩 Research Context
-This project represents the **first step in my algorithmic modeling work**, illustrating how rule-based systems simulate human decision-making. It directly informs my sociological research on **algorithmic governance, data systems, and surveillance** — showing how logic and power intertwine in digital decision architectures.
+This project represents the **first step in my algorithmic modeling work**, illustrating how rule-based systems simulate human decision-making. It directly informs my sociological research on **algorithmic governance, data systems, and surveillance**, showing how logic and power intertwine in digital decision architectures.
