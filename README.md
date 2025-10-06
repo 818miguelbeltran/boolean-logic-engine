@@ -27,9 +27,7 @@ This project demonstrates **algorithmic thinking** by:
 ---
 
 ## 🧠 About This Project
-This project was created to visualize the logic behind a **Boolean rule-based engine** that models how platforms make automated recommendations.  
-The goal is to demonstrate how **decision-making (such as personalization and preference modeling)** can be structured logically and later implemented in code.  
-By testing combinations of True/False conditions, this model reveals how algorithmic systems prioritize data inputs and how those priorities shape outcomes.
+This project was created to visualize the logic behind a **Boolean rule-based engine** that models how platforms make automated recommendations. The goal is to demonstrate how **decision-making (such as personalization and preference modeling)** can be structured logically and later implemented in code. By testing combinations of True/False conditions, this model reveals how algorithmic systems prioritize data inputs and how those priorities shape outcomes.
 
 ---
 
@@ -55,5 +53,4 @@ This structure can later be translated directly into **Python** using Boolean ex
 ---
 
 ## 🔎 Research Context
-This project serves as a prototype for modeling how **algorithmic systems shape and constrain human decision-making**, a key theme in my sociological research on **surveillance, technology, and social control**.  
-By dissecting how Boolean logic structures behavior in recommendation systems, this work highlights the **relationship between data, automation, and power** — the foundation for understanding algorithmic governance in digital societies.
+This project serves as a prototype for modeling how **algorithmic systems shape and constrain human decision-making**, a key theme in my sociological research on **surveillance, technology, and social control**. By dissecting how Boolean logic structures behavior in recommendation systems, this work highlights the **relationship between data, automation, and power** — the foundation for understanding algorithmic governance in digital societies.
